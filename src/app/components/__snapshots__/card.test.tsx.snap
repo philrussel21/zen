@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<article
+  className="p-8 rounded-2xl bg-white"
+>
+  <h3>
+    Test
+  </h3>
+  <p>
+    Test
+  </p>
+</article>
+`;
